@@ -1,6 +1,6 @@
-#User Page
+# User Page
 
-##Introduction
+## Introduction
 
 **Name**: Tyler He
 
